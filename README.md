@@ -1,3 +1,3 @@
 This is my first git repository
 <br>
-Shivam Dhar
+Author: Shivam Dhar - Added new value
